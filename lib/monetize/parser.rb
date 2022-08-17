@@ -10,6 +10,7 @@ module Monetize
       'R$' => 'BRL',
       'R'  => 'ZAR',
       '¥'  => 'JPY',
+      '￥'  => 'JPY',
       'C$' => 'CAD',
       '₼'  => 'AZN',
       '元' => 'CNY',
